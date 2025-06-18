@@ -41,46 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCg5zzlo-pqdmsG-4fQWCW-pFOtZKN5hHQ',
-    appId: '1:361640418654:web:1a3edf6764a4a43bf103cf',
-    messagingSenderId: '361640418654',
-    projectId: 'spotify-b42e5',
-    authDomain: 'spotify-b42e5.firebaseapp.com',
-    storageBucket: 'spotify-b42e5.firebasestorage.app',
+    apiKey: 'Your API KEY',
+    appId: 'Your APPID',
+    messagingSenderId: 'Your msgSenId',
+    projectId: 'Your projectID',
+    authDomain: 'Your AuthDomain',
+    storageBucket: 'Your StorageBucket ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCuWccwiLujy3hHg_vaAX2DZiDirLlwOHA',
-    appId: '1:361640418654:android:c2e345b7525d6540f103cf',
-    messagingSenderId: '361640418654',
-    projectId: 'spotify-b42e5',
-    storageBucket: 'spotify-b42e5.firebasestorage.app',
+    apiKey: 'Your API KEY',
+    appId: 'Your APPID',
+    messagingSenderId: 'Your msgSenId',
+    projectId: 'Your projectID',
+    authDomain: 'Your AuthDomain',
+    storageBucket: 'Your StorageBucket ',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAx9VTrBxXfq5VB2Z2gFQ1BSLBMhycPq1E',
-    appId: '1:361640418654:ios:616c799bbb501813f103cf',
-    messagingSenderId: '361640418654',
-    projectId: 'spotify-b42e5',
-    storageBucket: 'spotify-b42e5.firebasestorage.app',
-    iosBundleId: 'com.example.spotify',
+    apiKey: 'Your API KEY',
+    appId: 'Your APPID',
+    messagingSenderId: 'Your msgSenId',
+    projectId: 'Your projectID',
+    authDomain: 'Your AuthDomain',
+    storageBucket: 'Your StorageBucket ',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAx9VTrBxXfq5VB2Z2gFQ1BSLBMhycPq1E',
-    appId: '1:361640418654:ios:616c799bbb501813f103cf',
-    messagingSenderId: '361640418654',
-    projectId: 'spotify-b42e5',
-    storageBucket: 'spotify-b42e5.firebasestorage.app',
-    iosBundleId: 'com.example.spotify',
+   apiKey: 'Your API KEY',
+    appId: 'Your APPID',
+    messagingSenderId: 'Your msgSenId',
+    projectId: 'Your projectID',
+    authDomain: 'Your AuthDomain',
+    storageBucket: 'Your StorageBucket ',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCg5zzlo-pqdmsG-4fQWCW-pFOtZKN5hHQ',
-    appId: '1:361640418654:web:33e68ec696946a12f103cf',
-    messagingSenderId: '361640418654',
-    projectId: 'spotify-b42e5',
-    authDomain: 'spotify-b42e5.firebaseapp.com',
-    storageBucket: 'spotify-b42e5.firebasestorage.app',
+    apiKey: 'Your API KEY',
+    appId: 'Your APPID',
+    messagingSenderId: 'Your msgSenId',
+    projectId: 'Your projectID',
+    authDomain: 'Your AuthDomain',
+    storageBucket: 'Your StorageBucket ',
   );
 }
