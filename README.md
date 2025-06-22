@@ -1,16 +1,28 @@
-# spotify
+# 🎧 Spotify Clone (Basic) – Flutter + Firebase
 
-A new Flutter project.
+A **basic music streaming app** inspired by Spotify, built using **Flutter** and **Firebase**. This project demonstrates fundamental concepts of mobile app development such as user authentication, dynamic theming, real-time data fetching, and UI composition. It is designed as a **beginner-level clone** and does **support actual audio playback**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Core Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **Login/Signup** using Firebase Authentication
+- 🎵 **Song List Display** from Firebase Firestore or Realtime Database
+- 💿 **Playlist View** showing selected songs
+- ❤️ **Favorites Management** 
+- 🌗 **Dark/Light Mode** switch
+- 🔄 Real-time data updates from Firebase
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+| Layer       | Technology         |
+|-------------|--------------------|
+| Language    | Dart               |
+| Framework   | Flutter            |
+| Backend     | Firebase (Auth + Firestore/Realtime DB) |
+| State Mgmt  | `Provider` / `setState` |
+| Theming     | Dynamic Theme Switching |
+
+---
